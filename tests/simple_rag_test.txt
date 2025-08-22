@@ -1,0 +1,11 @@
+RAG 시스템 테스트 문서
+
+RAG는 Retrieval-Augmented Generation의 줄임말입니다.
+
+RAG의 주요 장점:
+1. 정확한 정보 제공
+2. 최신 데이터 활용
+3. 출처 추적 가능
+4. 환각 현상 감소
+
+이 문서는 dynamic strict 매핑 테스트용입니다.

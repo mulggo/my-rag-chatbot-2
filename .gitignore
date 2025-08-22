@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+my-rag-venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
