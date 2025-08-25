@@ -6,6 +6,7 @@ __pycache__/
 env/
 venv/
 my-rag-venv/
+my-rag-venv-backup-python39/
 
 # Environment variables
 .env
